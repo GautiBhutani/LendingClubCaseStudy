@@ -20,6 +20,6 @@
 
 
 ## Contact
-Created by [@GautiBhutani] - feel free to contact me!
+Created by [https://github.com/GautiBhutani/] - feel free to contact me!
 
 

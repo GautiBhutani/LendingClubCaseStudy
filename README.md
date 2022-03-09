@@ -18,13 +18,6 @@
 ## Technologies Used
 - Python- version 3.8
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-
 
 ## Contact
 Created by [@GautiBhutani] - feel free to contact me!
